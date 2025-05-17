@@ -12,4 +12,11 @@ fn main() {
         let x = x * 2;
         println!("x = {x}");
     }
+    
+    // boolean
+    let t = true;
+    let f: bool = false;
+    
+    let c = 'A';
+    let z: char = '가';
 }
