@@ -25,7 +25,7 @@ fn main() {
     
     let m1 = Message::StartGame;
     let m2 = Message::WinPoint {
-        who: String::from("hong");
+        who: String::from("hong")
     };
     let m3 = Message::ChangePlayerName(String::from("James"));
     
